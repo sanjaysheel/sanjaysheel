@@ -9,4 +9,5 @@ I'm **sanjaysheel**. I'm an undergraduate IT student from India.
 * 💬 Ask me about Python, Django, Docker, Machine Learning, Data Science.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjaysheel8/), [twitter](https://twitter.com/sanjaysheel5), [medium](https://medium.com/@sanjaysheel1997)
 * 😄 Pronouns: He/Him 
-* :heart: i like to eat :apple:, :walking_man:, :tea:, :coffee:and oh..! you can ask me for coffee or tea always
+
+
