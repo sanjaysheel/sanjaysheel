@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **sanjaysheel**. I'm an undergraduate IT student from India.
+I'm **sanjaysheel**. I'm an graduated in IT from India.
 
 - 🔭 I’m currently working on  :snake:  Python, Django, web sccraping
 * 🌱 I’m currently learning data science, machine learning
