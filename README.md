@@ -2,7 +2,7 @@
 
 I'm **sanjaysheel**. I'm an undergraduate IT student from India.
 
-- 🔭 I’m currently working on  :snake:  Python, Django
+- 🔭 I’m currently working on  :snake:  Python, Django, web sccraping
 * 🌱 I’m currently learning data science, machine learning
 * 👯 I’m looking to collaborate on open source project
 * 🤔 I’m looking for help with in my project.
