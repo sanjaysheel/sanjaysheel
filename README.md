@@ -2,7 +2,7 @@
 
 I'm an graduated in IT from India.
 
-- 🔭 I’m currently working on  :snake:  Python, Django, Web Scraping, OpenCV, Data Engineer
+- 🔭 I’m currently working on  :snake:  Python, Django, Web Scraping, OpenCV, Data Engineer, Machine learning, Data Analyst
 * 🌱 I’m currently learning Data Science, Machine Learning,
 * working as a Data Engineer and data analytics
 * 👯 I’m looking to collaborate on open source project
